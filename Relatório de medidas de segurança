@@ -1,0 +1,33 @@
+RELATÓRIO DE IMPLEMENTAÇÃO DE MEDIDAS DE SEGURANÇA
+Data: 21/01/2024 Empresa: Abstergo Industries Responsável: Calebe Iles Brasil de Freitas 
+
+Introdução
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Calebe Iles Brasil de Freitas. O objetivo do projeto foi elencar 3 medidas de segurança em conjunto dos serviços da AWS, com a finalidade de realizar aumentar a segurança na empresa.
+
+Descrição do Projeto
+O projeto de implementação de ferramentas foi dividido em 3 medidas de segurança. A seguir, serão descritas as etapas da implementação:
+
+Medida 1: - Evitar o uso da conta root: A primeira conta criada na AWS é a conta root, que possui direitos administrativos. É recomendado evitar o uso dessa conta e estabelecer o monitoramento para quando ela for usada.
+
+Medida 2: - Uso de autenticação de múltiplos fatores (MFA): Forçar o uso de um segundo fator de autenticação (MFA – Multi Factor Authentication) para os acesso à console AWS aumenta a segurança, pois adiciona uma camada extra de proteção
+
+Medida 3: - Desativar credenciais não utilizadas: É recomendado desativar o acesso de credenciais que não foram utilizadas nos últimos 90 dias ou mais. Isso ajuda a minimizar o risco de acesso não autorizado
+
+Conclusão
+
+Para finalizar o projeto, implementamos as seguintes medidas de segurança na AWS:
+
+Restringimos o uso da conta root: Evitamos o uso da conta root, que possui direitos administrativos completos, e estabelecemos monitoramento para quando ela é usada.
+
+Implementamos a autenticação de múltiplos fatores (MFA): Adicionamos uma camada extra de proteção ao forçar o uso de um segundo fator de autenticação para os acessos à console AWS.
+
+Desativamos credenciais não utilizadas: Minimizamos o risco de acesso não autorizado ao desativar o acesso de credenciais que não foram utilizadas nos últimos 90 dias ou mais.
+
+Essas medidas, em conjunto com as políticas de segurança da própria empresa, ajudam a garantir a segurança dos nossos dados na nuvem.
+
+Anexos
+[lista de anexos, como manuais, documentos, planilhas, entre outros]
+
+Assinatura do Responsável pelo Projeto: Calebe Iles Brasil de Freitas 
+
+Calebe Iles Brasil de Freitas 
